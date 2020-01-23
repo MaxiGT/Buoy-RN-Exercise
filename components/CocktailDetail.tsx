@@ -49,31 +49,24 @@ const styles = StyleSheet.create({
     backgroundColor: "#eee",
     flexDirection: "column",
     borderRadius: 5,
-    height: '100%'
+    height: 'auto'
   },
   imageContainer: {
     height: 300,
-    width: 350,
-    margin: 5
+    width: 300,
   },
   image: {
     height: 300,
     width: '100%',
-    borderRadius: 5,
-    margin: 10
-  },
-  cocktailImage: {
-    width: 350,
-    height: 300,
-    padding: 5,
-    borderRadius: 5
+    borderRadius: 10,
   },
   ingredientList: {
-    flexDirection: "column"
+    flexDirection: "column",
+    margin: 5
   },
-  ingredientsText: { fontSize: 20 },
-  instructionsHeader: { fontSize: 22, marginTop: 10, marginBottom: 10 },
-  instructionsText: { fontSize: 20 }
+  ingredientsText: { fontSize: 20, marginLeft: 5 },
+  instructionsHeader: { fontSize: 22, marginTop: 10, marginBottom: 10, marginLeft: 5 },
+  instructionsText: { fontSize: 20, marginBottom: 20, marginLeft: 5 }
 });
 
 export default CocktailDetail;
