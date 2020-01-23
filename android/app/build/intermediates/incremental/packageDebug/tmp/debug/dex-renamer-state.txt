@@ -1,4 +1,4 @@
-#Fri Jan 17 17:30:07 ART 2020
-base.0=/Users/mago/RN/BuoyTS/android/app/build/intermediates/transforms/dexMerger/debug/0
+#Thu Jan 23 00:51:14 ART 2020
+base.0=/Users/mago/RN/Buoy-RN-Exercise/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "android": "react-native run-android",
-    "ios": "react-native run-ios",
+    "ios": "rm -rf ios/build/; npx react-native run-ios",
     "start": "react-native start",
     "test": "jest",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
@@ -15,6 +15,7 @@
     "@types/react-redux": "^7.1.6",
     "react": "16.9.0",
     "react-native": "0.61.5",
+    "react-native-fast-image": "^7.0.2",
     "react-native-gesture-handler": "^1.5.3",
     "react-native-reanimated": "^1.7.0",
     "react-native-safe-area-context": "^0.6.2",

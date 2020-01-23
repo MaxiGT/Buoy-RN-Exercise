@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/mago/RN/BuoyTS/ios/Pods/Target\ Support\ Files/FBReactNativeSpec/FBReactNativeSpec-dummy.m \
-  /Users/mago/RN/BuoyTS/ios/Pods/Target\ Support\ Files/FBReactNativeSpec/FBReactNativeSpec-prefix.pch
+  /Users/mago/RN/Buoy-RN-Exercise/ios/Pods/Target\ Support\ Files/FBReactNativeSpec/FBReactNativeSpec-dummy.m \
+  /Users/mago/RN/Buoy-RN-Exercise/ios/Pods/Target\ Support\ Files/FBReactNativeSpec/FBReactNativeSpec-prefix.pch

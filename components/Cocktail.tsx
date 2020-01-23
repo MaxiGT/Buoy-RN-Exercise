@@ -1,5 +1,6 @@
 import React from "react";
 import { Text, View, StyleSheet, Image } from "react-native";
+import FastImage from 'react-native-fast-image';
 
 type IncomingProps = {
     name: string;
@@ -13,9 +14,13 @@ const Cocktail = (props: IncomingProps) => {
                 <Text style={styles.cocktailName}>{props.name}</Text>
             </View>
             <View style={styles.imageContainer}>
-                <Image
+                <FastImage
                   style={styles.image}
-                  source={{ uri: props.imgSrc }}
+                  source={{
+                    uri: props.imgSrc,
+                    priority: FastImage.priority.high,
+                    cache: FastImage.cacheControl.immutable
+                  }}
                 />
             </View>
         </View>

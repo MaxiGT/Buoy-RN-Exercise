@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mago/RN/BuoyTS/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml",
+            "outputFile": "/Users/mago/RN/Buoy-RN-Exercise/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml",
             "map": [
                 {
                     "source": "/Users/mago/.gradle/caches/transforms-2/files-2.1/21c7be833180bd1ea94313ec6daa1846/res/values-ar/values-ar.xml",

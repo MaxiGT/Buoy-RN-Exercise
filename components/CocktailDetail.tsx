@@ -1,5 +1,6 @@
 import React from "react";
 import { Text, View, StyleSheet, ScrollView, Image } from "react-native";
+import FastImage from 'react-native-fast-image';
 
 type IncomingProps = {
     imgSrc: string;
@@ -15,7 +16,14 @@ const CocktailDetail = (
     } : IncomingProps) => (
   <ScrollView style={styles.cocktailContainer}>
     <View style={styles.imageContainer}>
-        <Image style={styles.image} source={{ uri: imgSrc }} />
+        <FastImage
+          style={styles.image}
+          source={{
+            uri: imgSrc,
+            priority: FastImage.priority.high,
+            cache: FastImage.cacheControl.immutable
+          }}
+        />
     </View>
     <View style={styles.ingredientList}>
         <Text style={styles.instructionsHeader}>{`Ingredients:`}</Text>
