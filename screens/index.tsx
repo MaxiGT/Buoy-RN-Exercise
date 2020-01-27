@@ -3,6 +3,7 @@ import { createAppContainer } from "react-navigation";
 import { createStackNavigator } from "react-navigation-stack";
 import Drinks from "./Drinks";
 import DrinkDetail from "./DrinkDetail";
+import AddDrinkScreen from './AddDrink';
 
 const RootStack = createStackNavigator(
     {
@@ -18,7 +19,14 @@ const RootStack = createStackNavigator(
             navigationOptions: {
                 animationEnabled: true
             }
-        }
+        },
+        AddDrink: {
+            screen: AddDrinkScreen,
+            navigationOptions: {
+                title: `Add Drink`,
+                animationEnabled: true,
+            }
+        },
     },
     {
         initialRouteName: 'Drinks',

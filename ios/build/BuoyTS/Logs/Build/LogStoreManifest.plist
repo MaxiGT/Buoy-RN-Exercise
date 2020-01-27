@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>79F3F47B-E351-4F8D-AB95-A76AB9A9CB62</key>
+		<key>76A2FCED-9585-4BD4-9499-CFE820A14EF6</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>79F3F47B-E351-4F8D-AB95-A76AB9A9CB62.xcactivitylog</string>
+			<string>76A2FCED-9585-4BD4-9499-CFE820A14EF6.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,13 +32,13 @@
 			<key>signature</key>
 			<string>Building workspace BuoyTS with scheme BuoyTS and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>601444833.61779702</real>
+			<real>601530378.82113802</real>
 			<key>timeStoppedRecording</key>
-			<real>601444980.55421603</real>
+			<real>601530576.56895399</real>
 			<key>title</key>
 			<string>Building workspace BuoyTS with scheme BuoyTS and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>79F3F47B-E351-4F8D-AB95-A76AB9A9CB62</string>
+			<string>76A2FCED-9585-4BD4-9499-CFE820A14EF6</string>
 		</dict>
 	</dict>
 </dict>

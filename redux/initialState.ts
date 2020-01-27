@@ -3,6 +3,7 @@ import { ApplicationState } from "types/ApplicationState";
 export function initialState(): ApplicationState {
     return {
         drinks: [],
+        customDrinks: [],
         selectedDrink: {
             idDrink: '',
             strCategory: '',

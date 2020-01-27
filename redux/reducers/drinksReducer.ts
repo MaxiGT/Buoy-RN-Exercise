@@ -24,6 +24,10 @@ export default function drinkReducer (state: ApplicationState = initialState(), 
             return {
                 ...state, filter: action.payload
             }
+        case actionTypes.CREATE_DRINK:
+            return {
+                ...state, drinks: [...state.drinks, action.payload]
+            }
         default:
             return { ...state };
     }

@@ -14,8 +14,12 @@ import java.util.ArrayList;
 import com.buoyts.BuildConfig;
 import com.buoyts.R;
 
+// @react-native-community/cameraroll
+import com.reactnativecommunity.cameraroll.CameraRollPackage;
 // @react-native-community/masked-view
 import org.reactnative.maskedview.RNCMaskedViewPackage;
+// react-native-camera
+import org.reactnative.camera.RNCameraPackage;
 // react-native-fast-image
 import com.dylanvann.fastimage.FastImageViewPackage;
 // react-native-gesture-handler
@@ -71,7 +75,9 @@ public class PackageList {
   public ArrayList<ReactPackage> getPackages() {
     return new ArrayList<>(Arrays.<ReactPackage>asList(
       new MainReactPackage(mConfig),
+      new CameraRollPackage(),
       new RNCMaskedViewPackage(),
+      new RNCameraPackage(),
       new FastImageViewPackage(),
       new RNGestureHandlerPackage(),
       new ReanimatedPackage(),

@@ -37,6 +37,17 @@ export const selectDrink = (payload: DrinkDetail) => ({
     payload
 });
 
+// Select Drink from List
+export type CreateDrink = {
+    type: typeof actionTypes.CREATE_DRINK,
+    payload: Drink
+};
+
+export const createDrink = (payload: Drink) => ({
+    type: actionTypes.CREATE_DRINK,
+    payload
+});
+
 // Generif API Request - isFetching = true
 export type FetchRequest = {
     type: typeof actionTypes.FETCHING_REQUEST

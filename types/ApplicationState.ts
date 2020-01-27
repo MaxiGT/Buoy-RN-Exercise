@@ -3,6 +3,7 @@ import { DrinkDetail } from "./DrinkDetail";
 
 export type ApplicationState = {
     drinks: Drink[],
+    customDrinks: Drink[],
     selectedDrink: DrinkDetail,
     isFetching: Boolean,
     error: {},

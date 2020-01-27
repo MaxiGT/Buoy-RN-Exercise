@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/mago/RN/Buoy-RN-Exercise/node_modules/react-native-camera/ios/RN/RNCamera.m \
+  /Users/mago/RN/Buoy-RN-Exercise/ios/Pods/Target\ Support\ Files/react-native-camera/react-native-camera-prefix.pch \
+  /Users/mago/RN/Buoy-RN-Exercise/node_modules/react-native-camera/ios/RN/RNCamera.h \
+  /Users/mago/RN/Buoy-RN-Exercise/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/mago/RN/Buoy-RN-Exercise/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/mago/RN/Buoy-RN-Exercise/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/mago/RN/Buoy-RN-Exercise/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/mago/RN/Buoy-RN-Exercise/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/mago/RN/Buoy-RN-Exercise/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/mago/RN/Buoy-RN-Exercise/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/mago/RN/Buoy-RN-Exercise/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/mago/RN/Buoy-RN-Exercise/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/mago/RN/Buoy-RN-Exercise/node_modules/react-native-camera/ios/RN/FaceDetectorManagerMlkit.h \
+  /Users/mago/RN/Buoy-RN-Exercise/node_modules/react-native-camera/ios/RN/BarcodeDetectorManagerMlkit.h \
+  /Users/mago/RN/Buoy-RN-Exercise/node_modules/react-native-camera/ios/RN/TextDetectorManager.h \
+  /Users/mago/RN/Buoy-RN-Exercise/node_modules/react-native-camera/ios/RN/RNCameraUtils.h \
+  /Users/mago/RN/Buoy-RN-Exercise/node_modules/react-native-camera/ios/RN/RNCameraManager.h \
+  /Users/mago/RN/Buoy-RN-Exercise/ios/Pods/Headers/Public/React-Core/React/RCTViewManager.h \
+  /Users/mago/RN/Buoy-RN-Exercise/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/mago/RN/Buoy-RN-Exercise/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/mago/RN/Buoy-RN-Exercise/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/mago/RN/Buoy-RN-Exercise/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/mago/RN/Buoy-RN-Exercise/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/mago/RN/Buoy-RN-Exercise/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/mago/RN/Buoy-RN-Exercise/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/mago/RN/Buoy-RN-Exercise/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/mago/RN/Buoy-RN-Exercise/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/mago/RN/Buoy-RN-Exercise/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/mago/RN/Buoy-RN-Exercise/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/mago/RN/Buoy-RN-Exercise/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/mago/RN/Buoy-RN-Exercise/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
+  /Users/mago/RN/Buoy-RN-Exercise/ios/Pods/Headers/Public/React-Core/React/UIView+React.h \
+  /Users/mago/RN/Buoy-RN-Exercise/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
+  /Users/mago/RN/Buoy-RN-Exercise/node_modules/react-native-camera/ios/RN/RNImageUtils.h \
+  /Users/mago/RN/Buoy-RN-Exercise/node_modules/react-native-camera/ios/RN/RNFileSystem.h \
+  /Users/mago/RN/Buoy-RN-Exercise/node_modules/react-native-camera/ios/RN/RNSensorOrientationChecker.h

@@ -1,11 +1,14 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:1:1-26:12
-MERGED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:1:1-26:12
+ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:1:1-29:12
+MERGED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:1:1-29:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/6b084a617a92794ca2b31d8854dfacef/AndroidManifest.xml:17:1-22:12
+MERGED from [:@react-native-community_cameraroll] /Users/mago/RN/Buoy-RN-Exercise/node_modules/@react-native-community/cameraroll/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:@react-native-community_masked-view] /Users/mago/RN/Buoy-RN-Exercise/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-camera] /Users/mago/RN/Buoy-RN-Exercise/node_modules/react-native-camera/android/build/intermediates/library_manifest/mlkitDebug/AndroidManifest.xml:2:1-18:12
 MERGED from [:react-native-fast-image] /Users/mago/RN/Buoy-RN-Exercise/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-gesture-handler] /Users/mago/RN/Buoy-RN-Exercise/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-reanimated] /Users/mago/RN/Buoy-RN-Exercise/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
@@ -14,6 +17,24 @@ MERGED from [:react-native-screens] /Users/mago/RN/Buoy-RN-Exercise/node_modules
 MERGED from [com.facebook.react:react-native:0.61.5] /Users/mago/.gradle/caches/transforms-2/files-2.1/371a4494202b1d7995811ba70c64a24f/AndroidManifest.xml:2:1-13:12
 MERGED from [com.google.android.material:material:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/d0e758dac1d0c7a8fa015095041d9855/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/21c7be833180bd1ea94313ec6daa1846/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-ml-vision:19.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/4270faf58b1af1b8ad6113ffb030ba92/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-ml-vision-face-model:17.0.2] /Users/mago/.gradle/caches/transforms-2/files-2.1/a6a88a6b0f76a5bd16f933b558f85964/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/fca574b6cb5a9422d14ed916046a3a05/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/mago/.gradle/caches/transforms-2/files-2.1/433e5dc61379fd67114892f390bd3888/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-image-label:17.0.2] /Users/mago/.gradle/caches/transforms-2/files-2.1/910e4b437604755fd45cb4b3ca67b091/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/mago/.gradle/caches/transforms-2/files-2.1/29fbc80a07941bafd886999965771ca7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-ml-common:17.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/c11eca19a56711caa9b50cf8b33d812a/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/bf9d9f19714110e37ff056cd378393a2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/mago/.gradle/caches/transforms-2/files-2.1/a3114bb93eca6462c47a0b04432ff0f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/bc519675916146e783ec37f668f0d80e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/fd441576900b380a4242f1268485bfe6/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/mago/.gradle/caches/transforms-2/files-2.1/cf235a69a8bb5e2188e46b533682e0a3/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/mago/.gradle/caches/transforms-2/files-2.1/f19799b14dfde9fcbe37c9ddb063a1b3/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/6273830e3e2070fe5877f870e7bc020b/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/mago/.gradle/caches/transforms-2/files-2.1/80b03bfe16091413652b7a6445bd3ff9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/mago/.gradle/caches/transforms-2/files-2.1/c81009a1d66e33624da79a17f57daa17/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/5271923bad0428dc6c7a1dc357c8409b/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/dbfa536556dc8788c77b3c53cd5e823d/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/532cbaf0faa7514a2f432023e04db4d5/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/07116f04df578154393ada993c50bada/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/mago/.gradle/caches/transforms-2/files-2.1/2dd74576f2eb4d2488ddfa071b8ee0ca/AndroidManifest.xml:17:1-24:12
@@ -31,26 +52,28 @@ MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/mago/.gradle/caches/t
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/05d877ac10e6fb63ce64a9f417797fe3/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/52fb6ea164f457538d271c71529277e1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/6e783aec380c1d7275f15c141ee452d7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/ed168460cd026c3669ef40ba8467b7c0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.transition:transition:1.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/96e483c939d031b0127e4f4c87fccc0c/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/b243f71007101f9ea307a9c808f29bff/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/23ef97e5db6d843c1aa0b9158fbbb74c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/6ee4e7e2b428879c0a9d3f80c4eeacec/AndroidManifest.xml:17:1-22:12
 MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/aa1ae5028a5723d859b83faa721dd844/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.fragment:fragment:1.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/62bde2a7b30aabf4e0911eefe3f758d6/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/fb8ccddd2cdbbb407a0896d0ac545fbe/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/ccb9bc0eccbca1fa9ea832769031e682/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/11d75845d7671098faaf70dca0513b60/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.customview:customview:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/001602e4df988c9bf1e58425de30cb13/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/6ee4e7e2b428879c0a9d3f80c4eeacec/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/233811979132c79601c7a2f982d402c6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/534e72dcfb83833e659596c78a8370a8/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.activity:activity:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/6573cf81b0bd07fe940468333535baba/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/6ea56f1a7a266bf1e197fb7256a5af69/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/534e72dcfb83833e659596c78a8370a8/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core:1.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/0a1b671361af7285fbd8c6645e697491/AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/6b08646aa5cffbf536afc6ef8a856508/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/a134afcd211faa6f61ddceed95feb308/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/21fe65fd663e9e29a12fe1e3538a64f2/AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/77877b7b573e3d1c5954f2e6b370f584/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/2d8a6fe56a2c8b84e6d12f2f357b6350/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/8342af8f52241eb1667b7edf85013306/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/21fe65fd663e9e29a12fe1e3538a64f2/AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/80a961a75baf81c1263a9ade26fdc124/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/b915806b90be4652cc6f997b9948d0d6/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/f0c777ac76d2e614e37089b45987b562/AndroidManifest.xml:17:1-24:12
@@ -68,28 +91,70 @@ INJECTED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/debug/AndroidManif
 		INJECTED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/debug/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:1:1-29:12
 		INJECTED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/debug/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/debug/AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:1:1-29:12
 		INJECTED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
 ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/fd441576900b380a4242f1268485bfe6/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/fd441576900b380a4242f1268485bfe6/AndroidManifest.xml:23:5-67
 	android:name
 		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:5:5-65
+MERGED from [:react-native-camera] /Users/mago/RN/Buoy-RN-Exercise/node_modules/react-native-camera/android/build/intermediates/library_manifest/mlkitDebug/AndroidManifest.xml:9:5-65
+MERGED from [:react-native-camera] /Users/mago/RN/Buoy-RN-Exercise/node_modules/react-native-camera/android/build/intermediates/library_manifest/mlkitDebug/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:5:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:7:22-77
 application
-ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:6:5-24:19
-MERGED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:6:5-24:19
-MERGED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:6:5-24:19
+ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:9:5-27:19
+MERGED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:9:5-27:19
+MERGED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:9:5-27:19
 MERGED from [com.facebook.react:react-native:0.61.5] /Users/mago/.gradle/caches/transforms-2/files-2.1/371a4494202b1d7995811ba70c64a24f/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.react:react-native:0.61.5] /Users/mago/.gradle/caches/transforms-2/files-2.1/371a4494202b1d7995811ba70c64a24f/AndroidManifest.xml:11:5-20
 MERGED from [com.google.android.material:material:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/d0e758dac1d0c7a8fa015095041d9855/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/d0e758dac1d0c7a8fa015095041d9855/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-ml-vision-face-model:17.0.2] /Users/mago/.gradle/caches/transforms-2/files-2.1/a6a88a6b0f76a5bd16f933b558f85964/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-ml-vision-face-model:17.0.2] /Users/mago/.gradle/caches/transforms-2/files-2.1/a6a88a6b0f76a5bd16f933b558f85964/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/mago/.gradle/caches/transforms-2/files-2.1/433e5dc61379fd67114892f390bd3888/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/mago/.gradle/caches/transforms-2/files-2.1/433e5dc61379fd67114892f390bd3888/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-image-label:17.0.2] /Users/mago/.gradle/caches/transforms-2/files-2.1/910e4b437604755fd45cb4b3ca67b091/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-image-label:17.0.2] /Users/mago/.gradle/caches/transforms-2/files-2.1/910e4b437604755fd45cb4b3ca67b091/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/mago/.gradle/caches/transforms-2/files-2.1/29fbc80a07941bafd886999965771ca7/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/mago/.gradle/caches/transforms-2/files-2.1/29fbc80a07941bafd886999965771ca7/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/bf9d9f19714110e37ff056cd378393a2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/bf9d9f19714110e37ff056cd378393a2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/bc519675916146e783ec37f668f0d80e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/bc519675916146e783ec37f668f0d80e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/fd441576900b380a4242f1268485bfe6/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/fd441576900b380a4242f1268485bfe6/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/mago/.gradle/caches/transforms-2/files-2.1/cf235a69a8bb5e2188e46b533682e0a3/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/mago/.gradle/caches/transforms-2/files-2.1/cf235a69a8bb5e2188e46b533682e0a3/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/mago/.gradle/caches/transforms-2/files-2.1/f19799b14dfde9fcbe37c9ddb063a1b3/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/mago/.gradle/caches/transforms-2/files-2.1/f19799b14dfde9fcbe37c9ddb063a1b3/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/6273830e3e2070fe5877f870e7bc020b/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/6273830e3e2070fe5877f870e7bc020b/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/mago/.gradle/caches/transforms-2/files-2.1/80b03bfe16091413652b7a6445bd3ff9/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/mago/.gradle/caches/transforms-2/files-2.1/80b03bfe16091413652b7a6445bd3ff9/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/mago/.gradle/caches/transforms-2/files-2.1/c81009a1d66e33624da79a17f57daa17/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/mago/.gradle/caches/transforms-2/files-2.1/c81009a1d66e33624da79a17f57daa17/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/5271923bad0428dc6c7a1dc357c8409b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/5271923bad0428dc6c7a1dc357c8409b/AndroidManifest.xml:22:5-26:19
 MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/13b40db9cdcde6a5df86366e1111a56d/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/13b40db9cdcde6a5df86366e1111a56d/AndroidManifest.xml:11:5-20
 MERGED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/c11e13e906a91aa85ed3ab32ca3db341/AndroidManifest.xml:10:5-14:19
@@ -105,59 +170,65 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mago
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/0a1b671361af7285fbd8c6645e697491/AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:8:7-39
-		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:11:7-39
+		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:11:7-39
 	tools:ignore
 		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/debug/AndroidManifest.xml:7:75-114
 	android:roundIcon
-		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:10:7-52
-		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:13:7-52
+		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:13:7-52
 	tools:targetApi
 		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/debug/AndroidManifest.xml:7:54-74
 	android:icon
-		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:9:7-41
-		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:12:7-41
+		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:12:7-41
 	android:allowBackup
-		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:11:7-34
-		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:14:7-34
+		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:14:7-34
 	android:theme
-		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:12:7-38
-		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:15:7-38
+		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:15:7-38
 	android:usesCleartextTraffic
 		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/debug/AndroidManifest.xml:7:18-53
 	android:name
-		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:7:7-38
-		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:10:7-48
+		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:10:7-48
 activity#com.buoyts.MainActivity
-ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:13:7-22:18
+ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:16:7-25:18
 	android:label
-		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:15:9-41
+		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:18:9-41
 	android:windowSoftInputMode
-		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:17:9-51
+		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:20:9-51
 	android:configChanges
-		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:16:9-79
+		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:19:9-79
 	android:name
-		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:14:9-37
+		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:17:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:18:9-21:25
+ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:21:9-24:25
 action#android.intent.action.MAIN
-ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:19:13-65
+ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:22:13-65
 	android:name
-		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:19:21-62
+		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:22:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:20:13-73
+ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:23:13-73
 	android:name
-		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:20:23-70
+		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:23:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:23:7-84
+ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:26:7-84
 	android:name
-		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:23:17-81
+		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml:26:17-81
 uses-sdk
 INJECTED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/6b084a617a92794ca2b31d8854dfacef/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/6b084a617a92794ca2b31d8854dfacef/AndroidManifest.xml:20:5-43
+MERGED from [:@react-native-community_cameraroll] /Users/mago/RN/Buoy-RN-Exercise/node_modules/@react-native-community/cameraroll/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_cameraroll] /Users/mago/RN/Buoy-RN-Exercise/node_modules/@react-native-community/cameraroll/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:@react-native-community_masked-view] /Users/mago/RN/Buoy-RN-Exercise/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:@react-native-community_masked-view] /Users/mago/RN/Buoy-RN-Exercise/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] /Users/mago/RN/Buoy-RN-Exercise/node_modules/react-native-camera/android/build/intermediates/library_manifest/mlkitDebug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] /Users/mago/RN/Buoy-RN-Exercise/node_modules/react-native-camera/android/build/intermediates/library_manifest/mlkitDebug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-fast-image] /Users/mago/RN/Buoy-RN-Exercise/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-fast-image] /Users/mago/RN/Buoy-RN-Exercise/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-gesture-handler] /Users/mago/RN/Buoy-RN-Exercise/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
@@ -174,6 +245,42 @@ MERGED from [com.google.android.material:material:1.0.0] /Users/mago/.gradle/cac
 MERGED from [com.google.android.material:material:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/d0e758dac1d0c7a8fa015095041d9855/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/21c7be833180bd1ea94313ec6daa1846/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/21c7be833180bd1ea94313ec6daa1846/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-ml-vision:19.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/4270faf58b1af1b8ad6113ffb030ba92/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ml-vision:19.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/4270faf58b1af1b8ad6113ffb030ba92/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ml-vision-face-model:17.0.2] /Users/mago/.gradle/caches/transforms-2/files-2.1/a6a88a6b0f76a5bd16f933b558f85964/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-vision-face-model:17.0.2] /Users/mago/.gradle/caches/transforms-2/files-2.1/a6a88a6b0f76a5bd16f933b558f85964/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/fca574b6cb5a9422d14ed916046a3a05/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/fca574b6cb5a9422d14ed916046a3a05/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/mago/.gradle/caches/transforms-2/files-2.1/433e5dc61379fd67114892f390bd3888/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/mago/.gradle/caches/transforms-2/files-2.1/433e5dc61379fd67114892f390bd3888/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-image-label:17.0.2] /Users/mago/.gradle/caches/transforms-2/files-2.1/910e4b437604755fd45cb4b3ca67b091/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-image-label:17.0.2] /Users/mago/.gradle/caches/transforms-2/files-2.1/910e4b437604755fd45cb4b3ca67b091/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/mago/.gradle/caches/transforms-2/files-2.1/29fbc80a07941bafd886999965771ca7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/mago/.gradle/caches/transforms-2/files-2.1/29fbc80a07941bafd886999965771ca7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-common:17.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/c11eca19a56711caa9b50cf8b33d812a/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ml-common:17.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/c11eca19a56711caa9b50cf8b33d812a/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/bf9d9f19714110e37ff056cd378393a2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/bf9d9f19714110e37ff056cd378393a2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/mago/.gradle/caches/transforms-2/files-2.1/a3114bb93eca6462c47a0b04432ff0f4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/mago/.gradle/caches/transforms-2/files-2.1/a3114bb93eca6462c47a0b04432ff0f4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/bc519675916146e783ec37f668f0d80e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/bc519675916146e783ec37f668f0d80e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/fd441576900b380a4242f1268485bfe6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/fd441576900b380a4242f1268485bfe6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/mago/.gradle/caches/transforms-2/files-2.1/cf235a69a8bb5e2188e46b533682e0a3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/mago/.gradle/caches/transforms-2/files-2.1/cf235a69a8bb5e2188e46b533682e0a3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/mago/.gradle/caches/transforms-2/files-2.1/f19799b14dfde9fcbe37c9ddb063a1b3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/mago/.gradle/caches/transforms-2/files-2.1/f19799b14dfde9fcbe37c9ddb063a1b3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/6273830e3e2070fe5877f870e7bc020b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/6273830e3e2070fe5877f870e7bc020b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/mago/.gradle/caches/transforms-2/files-2.1/80b03bfe16091413652b7a6445bd3ff9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/mago/.gradle/caches/transforms-2/files-2.1/80b03bfe16091413652b7a6445bd3ff9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/mago/.gradle/caches/transforms-2/files-2.1/c81009a1d66e33624da79a17f57daa17/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/mago/.gradle/caches/transforms-2/files-2.1/c81009a1d66e33624da79a17f57daa17/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/5271923bad0428dc6c7a1dc357c8409b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/5271923bad0428dc6c7a1dc357c8409b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/dbfa536556dc8788c77b3c53cd5e823d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/dbfa536556dc8788c77b3c53cd5e823d/AndroidManifest.xml:20:5-44
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/532cbaf0faa7514a2f432023e04db4d5/AndroidManifest.xml:20:5-44
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/532cbaf0faa7514a2f432023e04db4d5/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/07116f04df578154393ada993c50bada/AndroidManifest.xml:20:5-44
@@ -208,10 +315,16 @@ MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mago/
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/52fb6ea164f457538d271c71529277e1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/6e783aec380c1d7275f15c141ee452d7/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/6e783aec380c1d7275f15c141ee452d7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/ed168460cd026c3669ef40ba8467b7c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/ed168460cd026c3669ef40ba8467b7c0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.transition:transition:1.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/96e483c939d031b0127e4f4c87fccc0c/AndroidManifest.xml:20:5-44
 MERGED from [androidx.transition:transition:1.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/96e483c939d031b0127e4f4c87fccc0c/AndroidManifest.xml:20:5-44
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/b243f71007101f9ea307a9c808f29bff/AndroidManifest.xml:20:5-44
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/b243f71007101f9ea307a9c808f29bff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/23ef97e5db6d843c1aa0b9158fbbb74c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/23ef97e5db6d843c1aa0b9158fbbb74c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/6ee4e7e2b428879c0a9d3f80c4eeacec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/6ee4e7e2b428879c0a9d3f80c4eeacec/AndroidManifest.xml:20:5-44
 MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/aa1ae5028a5723d859b83faa721dd844/AndroidManifest.xml:5:5-7:41
 MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/aa1ae5028a5723d859b83faa721dd844/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.fragment:fragment:1.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/62bde2a7b30aabf4e0911eefe3f758d6/AndroidManifest.xml:20:5-22:41
@@ -224,30 +337,28 @@ MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mago/.gr
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/11d75845d7671098faaf70dca0513b60/AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/001602e4df988c9bf1e58425de30cb13/AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/001602e4df988c9bf1e58425de30cb13/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/6ee4e7e2b428879c0a9d3f80c4eeacec/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/6ee4e7e2b428879c0a9d3f80c4eeacec/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/233811979132c79601c7a2f982d402c6/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/233811979132c79601c7a2f982d402c6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/534e72dcfb83833e659596c78a8370a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/534e72dcfb83833e659596c78a8370a8/AndroidManifest.xml:20:5-44
 MERGED from [androidx.activity:activity:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/6573cf81b0bd07fe940468333535baba/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.activity:activity:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/6573cf81b0bd07fe940468333535baba/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/6ea56f1a7a266bf1e197fb7256a5af69/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/6ea56f1a7a266bf1e197fb7256a5af69/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/534e72dcfb83833e659596c78a8370a8/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/534e72dcfb83833e659596c78a8370a8/AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/0a1b671361af7285fbd8c6645e697491/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core:1.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/0a1b671361af7285fbd8c6645e697491/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/6b08646aa5cffbf536afc6ef8a856508/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/6b08646aa5cffbf536afc6ef8a856508/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/a134afcd211faa6f61ddceed95feb308/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/a134afcd211faa6f61ddceed95feb308/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/21fe65fd663e9e29a12fe1e3538a64f2/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/21fe65fd663e9e29a12fe1e3538a64f2/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/77877b7b573e3d1c5954f2e6b370f584/AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/77877b7b573e3d1c5954f2e6b370f584/AndroidManifest.xml:20:5-44
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/2d8a6fe56a2c8b84e6d12f2f357b6350/AndroidManifest.xml:20:5-44
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/2d8a6fe56a2c8b84e6d12f2f357b6350/AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/8342af8f52241eb1667b7edf85013306/AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/8342af8f52241eb1667b7edf85013306/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/21fe65fd663e9e29a12fe1e3538a64f2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/21fe65fd663e9e29a12fe1e3538a64f2/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/80a961a75baf81c1263a9ade26fdc124/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/80a961a75baf81c1263a9ade26fdc124/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/b915806b90be4652cc6f997b9948d0d6/AndroidManifest.xml:20:5-44
@@ -274,6 +385,94 @@ uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/debug/AndroidManifest.xml:5:5-77
 	android:name
 		ADDED from /Users/mago/RN/Buoy-RN-Exercise/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] /Users/mago/RN/Buoy-RN-Exercise/node_modules/react-native-camera/android/build/intermediates/library_manifest/mlkitDebug/AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:react-native-camera] /Users/mago/RN/Buoy-RN-Exercise/node_modules/react-native-camera/android/build/intermediates/library_manifest/mlkitDebug/AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:react-native-camera] /Users/mago/RN/Buoy-RN-Exercise/node_modules/react-native-camera/android/build/intermediates/library_manifest/mlkitDebug/AndroidManifest.xml:12:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] /Users/mago/RN/Buoy-RN-Exercise/node_modules/react-native-camera/android/build/intermediates/library_manifest/mlkitDebug/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:react-native-camera] /Users/mago/RN/Buoy-RN-Exercise/node_modules/react-native-camera/android/build/intermediates/library_manifest/mlkitDebug/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:react-native-camera] /Users/mago/RN/Buoy-RN-Exercise/node_modules/react-native-camera/android/build/intermediates/library_manifest/mlkitDebug/AndroidManifest.xml:15:9-57
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/fd441576900b380a4242f1268485bfe6/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/fd441576900b380a4242f1268485bfe6/AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/fd441576900b380a4242f1268485bfe6/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/fd441576900b380a4242f1268485bfe6/AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/fd441576900b380a4242f1268485bfe6/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/fd441576900b380a4242f1268485bfe6/AndroidManifest.xml:26:22-79
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/fd441576900b380a4242f1268485bfe6/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/fd441576900b380a4242f1268485bfe6/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/fd441576900b380a4242f1268485bfe6/AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/fd441576900b380a4242f1268485bfe6/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/fd441576900b380a4242f1268485bfe6/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/fd441576900b380a4242f1268485bfe6/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/fd441576900b380a4242f1268485bfe6/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/fd441576900b380a4242f1268485bfe6/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/fd441576900b380a4242f1268485bfe6/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/fd441576900b380a4242f1268485bfe6/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/fd441576900b380a4242f1268485bfe6/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/fd441576900b380a4242f1268485bfe6/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/fd441576900b380a4242f1268485bfe6/AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/fd441576900b380a4242f1268485bfe6/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/fd441576900b380a4242f1268485bfe6/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/fd441576900b380a4242f1268485bfe6/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/fd441576900b380a4242f1268485bfe6/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/fd441576900b380a4242f1268485bfe6/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/fd441576900b380a4242f1268485bfe6/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/fd441576900b380a4242f1268485bfe6/AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/mago/.gradle/caches/transforms-2/files-2.1/f19799b14dfde9fcbe37c9ddb063a1b3/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/mago/.gradle/caches/transforms-2/files-2.1/f19799b14dfde9fcbe37c9ddb063a1b3/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/mago/.gradle/caches/transforms-2/files-2.1/f19799b14dfde9fcbe37c9ddb063a1b3/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/mago/.gradle/caches/transforms-2/files-2.1/f19799b14dfde9fcbe37c9ddb063a1b3/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/6273830e3e2070fe5877f870e7bc020b/AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/6273830e3e2070fe5877f870e7bc020b/AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/6273830e3e2070fe5877f870e7bc020b/AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/6273830e3e2070fe5877f870e7bc020b/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/mago/.gradle/caches/transforms-2/files-2.1/6273830e3e2070fe5877f870e7bc020b/AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/5271923bad0428dc6c7a1dc357c8409b/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/5271923bad0428dc6c7a1dc357c8409b/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/5271923bad0428dc6c7a1dc357c8409b/AndroidManifest.xml:24:13-58
 meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
 ADDED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/mago/.gradle/caches/transforms-2/files-2.1/c11e13e906a91aa85ed3ab32ca3db341/AndroidManifest.xml:11:9-13:43
 	android:value

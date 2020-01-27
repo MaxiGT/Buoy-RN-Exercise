@@ -28,10 +28,8 @@ const Drinks = (props: IncomingProps) => {
         props.navigation.navigate("DrinkDetail", { detailHeader: drinkName });
     }
 
-    const selectRandom = () => {
-        const id = Math.round(Math.random() * drinks.length);
-        props.onSelectDrink(parseInt(props.drinks[id].idDrink));
-        setUpHeaderDetailAndNavigate(props.drinks[id].strDrink);
+    const addDrink = () => {
+        props.navigation.navigate("AddDrink");
     }
 
     useEffect(() => {
@@ -48,7 +46,7 @@ const Drinks = (props: IncomingProps) => {
 
     useEffect(() => {
         if (drinks.length > 0) {
-            props.navigation.setParams({ selectRandom });
+            props.navigation.setParams({ addDrink });
         }
     }, [drinks]);
 
@@ -86,9 +84,8 @@ Drinks.navigationOptions = (headerProps: HeaderConfigProps) => {
             // ),
             headerRight: () =>
                 (<Button
-                    onPress={() => headerProps.navigation.getParam('selectRandom')()}
-                    title="Select Random"
-                    color="red"
+                    onPress={() => headerProps.navigation.getParam('addDrink')()}
+                    title="Add Drink"
                 />)
         }
     );
